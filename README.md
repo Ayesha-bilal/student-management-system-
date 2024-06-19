@@ -1,2 +1,2 @@
-# university-management-system-
-a university management system using typescript 
+# student-management-system-
+a student management system using typescript 
